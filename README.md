@@ -399,6 +399,11 @@ docker-compose logs -f
 6. Push to the branch: `git push origin feature-name`
 7. Submit a pull request
 
+## Deployment
+
+- <img width="988" height="317" alt="image" src="https://github.com/user-attachments/assets/d5221412-fad5-4cd8-b5b8-bdab4885bdd1" />
+
+
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
